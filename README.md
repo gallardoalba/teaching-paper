@@ -24,21 +24,19 @@ This paper summarizes the pedagogical foundations necessary to develop quality d
 
 ### A constructivist approach to bioinformatics education
 
-Constructivism roots have their origin in the work of the Swiss psychologist Jean Piaget. Its core idea is that knowledge acquisition is a dynamic process which must be led by the learner through experience, discussion and reflection [11] [12]. It assumes that students learn better when they control the pace of learning, giving a special value to learning experiences which involve real-life problems [15] [16] [17].
+Constructivism roots have their origin in the work of the Swiss psychologist Jean Piaget. Its core idea is that knowledge acquisition is a dynamic process which must be led by the learner through experience, discussion and reflection [11] [12]. It assumes that students learn better when they control the pace of learning, giving a special value to learning experiences which involve real-life problems [15] [16] [17]. According to this paradigm, students, far from being passive recipients of information, must act as the active protagonist of the learning process [13].
 
-According to this paradigm, students, far from being passive recipients of information, must act as the active protagonist of the learning process [13].  For this reason, curruclumns should be structured in a spiral manner, so that the new knowledge should be rooted on previous learning.
+Social constructivism emphasizes that the knowledge construction process takes place more efficiently in a social context, where ideas can be shared and challenged [18] [19]. This is in harmony with research by Palloff and Pratt, which points out that establishing a learning community is essential for implementing online learning practices successfully [20]. Social presence, defined as the competence to transmit the feeling of closer social contacts in a certain communicative context, is considered an essential factor for establishing functional learning communities [24] [25]. According to this construct, the potential of certain communication technology to transmit social presence is directly proportional to its ability to transmit non-verbal information [26].
 
 Although the constructivist theory has profoundly influenced the teaching of science and mathematics, its applicability to bioinformatics has received much less attention, probably due to its cross-disciplinary nature. Bioinformatics education can be defined as the application of computational methods to collect, store, interpret, and integrate data in order to solve biological problems [8a] [8b].
 
-According Magana et al. (2014), bioinformatics education is divided in four dimensions: conceptual, methodological, computational tools and information resources [8c]. Computational tools includes the knowledge of pre-existing instruments and applications, and the ability to use them to solve biological problems. Finally, the information resources category includes knowledge of available databases and information sources.
-
-In addition to these categories, in the context of distance education it is necessary to pay special attention to the social dimension, which in spite of not being proper of the education in bioinformatics, is essential to solve some of the problems linked to the distance education.
+According Magana et al. (2014), bioinformatics education can be divided in three main dimensions: conceptual, methodological, management of computational tools and information resources [8c]. 
  
 #### Conceptual dimension
 
 The conceptual dimention refers to how to teach the abstract ideas or general notions that any student must know and understand in order to solve certain problems. 
 
-According the constructivist paradigm, the adquisiton of new knowledge is a recursive process in which new concepts are built on previos ones the learning process of highly abstract concept is not possible if there is no previous conceptual foundation [13a] [13b]. It explains that one of the first challenges facing bioinformatics students is the lack of mental models of basic elementary computer science concepts, which usually leads to frustation. It is the responsability of the teacher to establish the conceptual foundation on which students can develop their learning process autonomously [8d].
+According the constructivist paradigm, the adquisiton of new knowledge is a recursive process in which new concepts are built on previos ones the learning process of highly abstract concept is not possible if there is no previous conceptual foundation [13a] [13b]. It explains that one of the first challenges facing bioinformatics students is the lack of viable mental models of basic elementary computer science concepts, which usually leads to frustation. It is the responsability of the teacher to establish the conceptual foundation on which students can develop their learning process autonomously, as well as idenfity misconceptions [9k] [8d]. The use of forums in which students can discuss as well as problem-solving based tasks have proven to be very useful in improving conceptual understanding [9f].
 
 Diverse authors agree that, in order to implement adequate online teaching practices, it is necessary to take into account the characteristics of mental processes [30] [6]. Cognitive learning theory aims to describe the links between cognitive structures, defined as the mental representations of objects or ideas, and the learning process [31][32]. Experimental results have shown that cognitive learning styles affects the adquisition of mental models [9a] [9b]. Thus, students with an abstract learning mode tend to identify more easly the patterns inherent in an abstract model, whereas concrete learners prefers metaphors or analogies to facilitate learning new conceptual structures [9c] [9d].
 
@@ -46,42 +44,35 @@ The distance education can make difficult the identification of the learning sty
 
 ### Metodological dimension
 
-The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction, algorithmic thinking or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them.
+The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them [9g].
+
+Teaching computer programming is considered the best approach to encourage computational thinking, allowing to develop algorithmic thinking, problem solving, logic and debugging skills [9h]. However, constructivist theory suggests that before proceeding to teach programming, it is necessary for students to possess adequate computer sciences conceptual models [9k].
+
+From a constructivist point of view, collaborative problem-based learning is considered the most adequate pedagogic strategy for teaching experimental, statistical, and computational processes, since it allows students to actively participate in the construction of their knowledge through social interaction  through the resolution of real problems [9m] [9n] [9s] [9r]. 
 
 
+GitHub offers several unique features to facilitate user col- laboration. Its most important feature is the Pull Request (PR) mechanism which is a way to initiate discussion with other users and share or comment on the various artifacts in a project (typically changes to the project’s content). The discussion may include code that is visible to everyone and it shows the exact changes that would be merged if the PR were accepted. 
 
-### Computational tools and information resources dimensions
+Several other educators have also introduced GitHub into their classrooms and shared their experiences. In 2010, Luis Felipe Borjas13 posted about the use of GitHub orga- nizations14—a way to simplify the management of group- owned repositories—to manage class projects. He also ap- plied GitHub to exams: instead of waiting until the exam deadline to upload the exams, students could just push15 as many times they wished and the last push they made before the deadline was going to be considered their final submission. 
+
+while traditional LMSs support students reading and accessing course material, GitHub also allows them to easily contribute to the course material. The transparency features discussed above allowed intervie- wees to encourage student course participation and contribu- tion to the hosted course material. 
+
+GitHub enables students to contribute to course material or work done by other students with the use of the Pull Request mechanism—a novel way to participate in courses. GitHub provides more in-depth ways to communicate and collaborate and provides teachers and students with a way to gain social group awareness and get information about what group mem- bers are doing, who they are communicating with, and how they are contributing [16]. Thus, GitHub enables a participa- tory culture [17] where students can create, edit, and share in such a way that they feel their contributions matter.
 
 
-### Social dimension
+### Management of computational tools and information resources
 
-An important component of learning is the social interaction between participants. Online learning requires adjustments by instructors as well as students for successful interactions to occur.  
-
-According to the social constructivism theory, the knowledge construction process takes place more efficiently in a social context, where ideas can be shared and challenged [18] [19]. This is in harmony with research by Palloff and Pratt, which points out that establishing a learning community is essential for implementing online learning practices successfully [20].
-
-![__Figure 2.__ Proposed theoretical framework.](/images/framework.png)
-
-The flexibility offered by online learning is one of the key aspects to consider the constructivist theory as especially suitable for this context since 
-
-#### Social Constructivism Theory
-
-The community of inquiry model [21] describes the online educational experience in a learning community as arising from the interaction of three elements: teaching presence, cognitive presence and social presence.
-
-As stated by Garrison et al. teaching presence involves design and administration, discourse facilitation, and direct instruction [21]. Design and administration involve precision and transparency in planning instruction, discourse facilitation requires effort on the part of the instructor to maintain active learning, while direct instruction focuses on intellectual and scholarly leadership [9]. 
-
-Cognitive presence can be operationally defined as a cyclical process consisting of four steps: problem identification, collective exploration through critical reflection and discourse, knowledge construction from the previously confronted ideas, and integration of the newly gained knowledge through its practical implementation [22]. Teaching presence is considered essential in order to prevent the interruption of the processes during the initial phase, thus allowing more advanced stages of critical thinking and cognitive development [23].
-
-Social presence - defined as the competence to transmit the feeling of closer social contacts in a certain communicative context - is considered an essential factor for establishing functional learning communities [24] [25]. According to this construct, the potential of certain communication technology to transmit social presence is directly proportional to its ability to transmit non-verbal information [26]. Research indicates that adequate social presence is intimately related to both students’ perception of the learning process and their engagement [27] [28].
-
-It is considered that despite cognitive and social presences being indispensable factors for achieving higher levels of learning, the success of educational practices depends on the instructor capacity to properly structure the interactions in the community through an adequate design of the learning process [29].
-
-#### Cognitive Learning Theory
-
- Two important theories derive from this one: information processing theory and cognitive load theory.
+Computational tools includes the knowledge of pre-existing instruments and applications, the ability to use them to solve biological problems, and the knowledge of available databases and information sources.
 
 The information processing theory describes learning as the result of sequential processing of information, which involve three types of memory: immediate memory, working memory and long term memory [33]. According to this theory, adequate learning resources require to assume two key elements: firstly, the fact that working memory is limited; and secondly, that the interaction between working and long term memory plays an important role in the construction and transferability of knowledge [6] [13] [34].
 
-On the other hand, cognitive load theory seeks specifically to address the efficiency with which information is processed. It states that the verbal and visual information is processed by independent cognitive structures, both of them with a limited capacity [35] [36] [37] [38] [39]. An interesting concept derived from this theory is the cognitive overload, which refers to those situations in which the information flow exceeds the learner’s processing capacity, resulting in an inhibition of the learning process [40] [41].
+
+Johnstone (7) has suggested that a common source of difficulty in science is the overload that occurs when the demand on working memory exceeds its capacity. One solu- tion to this overload is to help the student build strategies that decrease a task’s demand on working memory. 
+
+Resources that can be easily used, linked to each other and generally maintained could be the best to present in a bioinformatics course. Teaching bioinformatics methods to scientists having no IT background is a challenging task.
+
+Setting up a suitable platform for effective bioinformatics analysis can be challenging. ORCA, the Genomics Research Container Architecture, provides a comprehensive bioinformatics command line computing environment for education or research in a Docker image, which includes hundreds of popular bioinformatics tools and their dependencies.
+
 
 #### Transformative Learning Theory
 
@@ -192,6 +183,20 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 [9d] Forišek, M., & Steinová, M. (2012, February). Metaphors and analogies for teaching algorithms. In Proceedings of the 43rd ACM technical symposium on Computer Science Education (pp. 15-20).
 
 [9f] Qin, H. (2009, March). Teaching computational thinking through bioinformatics to biology students. In Proceedings of the 40th ACM technical symposium on Computer science education (pp. 188-191).
+
+[9g] Csizmadia, A., Curzon, P., Dorling, M., Humphreys, S., Ng, T., Selby, C., & Woollard, J. (2015). Computational thinking A guide for teachers. 18.
+
+[9h] Buitrago Flórez, F., Casallas, R., Hernández, M., Reyes, A., Restrepo, S., & Danies, G. (2017). Changing a Generation’s Way of Thinking: Teaching Computational Thinking Through Programming. 87(4), 834–860.
+
+[9k] Ben-Ari, M. (1998). Constructivism in computer science education. SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education), 30(1), 257–261.
+
+[9m] Savery, J. R., & Duffy, T. M. (1995). Problem based learning: An instructional model and its constructivist framework. Educational technology, 35(5), 31-38.
+
+[9n] Loyens, S. M., Rikers, R. M., & Schmidt, H. G. (2006). Students' conceptions of constructivist learning: a comparison between a traditional and a problem-based learning curriculum. Advances in Health Sciences Education, 11(4), 365-379.
+
+[9s] Huang, Hsiu‐Mei. "Toward constructivism for adult learners in online learning environments." British journal of educational technology 33.1 (2002): 27-37.
+
+[9r] Korucu, A. T., & Cakir, H. (2018). The effect of dynamic web technologies on student academic achievement in problem-based collaborative learning environment. Malaysian Online Journal of Educational Technology, 6(1), 92-108.
 
 [10] Gilakjani, A. P., Lai-Mei, L., & Ismail, H. N. (2013). Teachers' use of technology and constructivism. International Journal of Modern Education and Computer Science, 5(4), 49
 
