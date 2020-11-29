@@ -17,33 +17,44 @@ Universities across the globe are struggling to set up the technical systems nee
 
 Qualitative research into online learning suggests that students experience greater dissatisfaction, interpersonal isolation, feelings of unclear direction and uncertainty, and a lack of engagement in this environment [2] [3] [4] [5]. Despite not  being associated with a single cause, research indicates that a crucial mistake is to perceive technology only as a channel for transferring content, used as a substitute for other tools, ignoring the growing knowledge about pedagogical practices in online education [6] [7].
 
-As Anderson, Rourke, Garrison, and Archer posited, online teaching is an extremely complex and challenging undertaking [9]. Due to its nature, it requires to move beyond traditional models into new practices more focused on the collective construction of knowledge rather than simply on the delivery of content [10]. The results of several studies indicate that the constructivist learning theory is the most appropriate to exploit the potential of technology-mediated educational practices [11a].
+The results of several studies indicate that the constructivist learning theory is the most appropriate to exploit the potential of technology-mediated educational practice, an intrinsic feature of distance education. [11a]. Due to its nature, it requires to move beyond traditional models into new practices more focused on the collective construction of knowledge rather than simply on the delivery of content [10]. 
 
 This paper summarizes the pedagogical foundations necessary to develop quality distance bioinformatics education practices, according to the existing bibliography. In addition, it seeks to help trainers organize their computational biology lessons by establishing the theoretical basis for our recommendations on online teaching described in Serrano-Solano et al. [8].
 
- ### Theoretical Framework
 
-In order to optimize the learning process, we propose constructivism as a starting point and therefore, specific elements from its three auxiliary theories should be incorporated: social learning theory, cognitive learning theory and transformational learning theory (Fig. 2).
+### A constructivist approach to bioinformatics education
 
-![__Figure 2.__ Proposed theoretical framework.](/images/framework.png)
+Constructivism roots have their origin in the work of the Swiss psychologist Jean Piaget. Its core idea is that knowledge acquisition is a dynamic process which must be led by the learner through experience, discussion and reflection [11] [12]. It assumes that students learn better when they control the pace of learning, giving a special value to learning experiences which involve real-life problems [15] [16] [17].
 
-__Figure 1.__ Proposed theoretical framework.
+According to this paradigm, students, far from being passive recipients of information, must act as the active protagonist of the learning process [13].  For this reason, curruclumns should be structured in a spiral manner, so that the new knowledge should be rooted on previous learning.
 
-### Constructivism as Pedagogical Paradigm
+Although the constructivist theory has profoundly influenced the teaching of science and mathematics, its applicability to bioinformatics has received much less attention, probably due to its cross-disciplinary nature. Bioinformatics education can be defined as the application of computational methods to collect, store, interpret, and integrate data in order to solve biological problems [8a] [8b].
 
-Constructivism roots have their origin in the work of the Swiss psychologist Jean Piaget. Its core idea is that knowledge acquisition is a dynamic process which must be led by the learner through experience, discussion and reflection [11] [12].
+According Magana et al. (2014), bioinformatics education is divided in four dimensions: conceptual, methodological, tools management and information resources [8c]. The conceptual dimention refers to how to teach the abstract ideas or general notions that any student must know and understand in order to solve certain problems. The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. This category includes the knowledge of pre-existing instruments and applications, and the ability to use them to solve biological problems.
+
+In addition to these categories, in the context of distance education it is necessary to pay special attention to the social dimension, which in spite of not being proper of the education in bioinformatics, is essential to solve some of the problems linked to the distance education.
  
-According to this paradigm, students, far from being passive recipients of information, must act as the active protagonist of the learning process, for which it is recommended to promote practices that are usually absent in traditional education contexts, such as encouraging themselves in reshaping new information through active consideration [13] [14].
+#### Conceptual and metodological dimensions
 
-The flexibility offered by online learning is one of the key aspects to consider the constructivist theory as especially suitable for this context since it assumes that students learn better when they control the pace of learning [15].
+According the constructivist paradigm, the adquisiton of new knowledge is a recursive process in which new concepts are built on previos ones [13a] [13b]. It explains that one of the first challenges facing bioinformatics students is the lack of mental models of basic elementary computer science concepts, which usually leads to frustation. It is the responsability of the teacher to establish the conceptual foundation on which students can develop their learning process autonomously [8d].
 
-Another important aspect of this pedagogical approach is the value it attaches to embed learning in realistic contexts, giving a special value to learning experiences which involve real-life problems [16] [17].
+Diverse authors agree that, in order to implement adequate online teaching practices, it is necessary to take into account the characteristics of mental processes [30] [6]. Cognitive learning theory aims to describe the links between cognitive structures, defined as the mental representations of objects or ideas, and the learning process [31][32]. Experimental results have shown that cognitive learning styles affects the adquisition of mental models [9a] [9b]. Thus, students with an abstract learning mode tend to identify more easly the patterns inherent in an abstract model, whereas concrete learners prefers metaphors or analogies to facilitate learning new conceptual structures [9c] [9d].
 
-#### Social Constructivism Theory
+
+### Tool management and information resources dimensions
+
+
+### Social dimension
 
 An important component of learning is the social interaction between participants. Online learning requires adjustments by instructors as well as students for successful interactions to occur.  
 
 According to the social constructivism theory, the knowledge construction process takes place more efficiently in a social context, where ideas can be shared and challenged [18] [19]. This is in harmony with research by Palloff and Pratt, which points out that establishing a learning community is essential for implementing online learning practices successfully [20].
+
+![__Figure 2.__ Proposed theoretical framework.](/images/framework.png)
+
+The flexibility offered by online learning is one of the key aspects to consider the constructivist theory as especially suitable for this context since 
+
+#### Social Constructivism Theory
 
 The community of inquiry model [21] describes the online educational experience in a learning community as arising from the interaction of three elements: teaching presence, cognitive presence and social presence.
 
@@ -57,9 +68,7 @@ It is considered that despite cognitive and social presences being indispensable
 
 #### Cognitive Learning Theory
 
-Diverse authors agree that, in order to implement adequate online teaching practices, it is necessary to take into account the characteristics of mental processes [30] [6].
-
-Cognitive learning theory aims to describe the links between cognitive structures -defined as the mental representations of objects or ideas- and the learning process [31][32]. Two important theories derive from this one: information processing theory and cognitive load theory.
+ Two important theories derive from this one: information processing theory and cognitive load theory.
 
 The information processing theory describes learning as the result of sequential processing of information, which involve three types of memory: immediate memory, working memory and long term memory [33]. According to this theory, adequate learning resources require to assume two key elements: firstly, the fact that working memory is limited; and secondly, that the interaction between working and long term memory plays an important role in the construction and transferability of knowledge [6] [13] [34].
 
@@ -154,7 +163,23 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 
 [8] Anderson, T., Liam, R., Garrison, D. R., & Archer, W. (2001). Assessing teaching presence in a computer conferencing context. JALN Volume 5, Issue 2.
 
+[8a] Counsell D (2003). A review of bioinformatics education in the UK. Brief Bioinform 4, 7–21.
+
+[8b] Koch I, Fuellen G (2008). A review of bioinformatics education in Germany. Brief Bioinform 9, 232–242.
+
+[8c] Magana, A. J., Taleyarkhan, M., Alvarado, D. R., Kane, M., Springer, J., & Clase, K. (2014). A Survey of Scholarly Literature Describing the Field of Bioinformatics Education and Bioinformatics Educational. 13, 607–623.
+
+[8d] Wu, C. C., Dale, N. B., & Bethel, L. J. (1998). Conceptual models and cognitive learning styles in teaching recursion. Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE, 292–296.
+
 [9] Palloff, R. M., & Pratt, K. (2002). Lessons from the cyberspace classroom: The realities of online teaching. John Wiley & Sons.
+
+[9a] Norman, D. A. Some observation of mental models. In D. Gentner and A.L. Stevens (Eds.), Mental Models (pp. 7-14). Erlbaum, Hillsdale, NJ, 1983.
+
+[9b] Van der Veer, G. C. and Felt, M. A. M. Development of mental models of anoffrce system: A field study on an introductory course. In G.C. van der Veer & G. Mulder @Us.), Human-Computer I Interaction: Psychonomic Aspects (pp. 251-272). Springer-Verlag, New York, 1988
+
+[9c] Wu, C. C., Dale, N. B., & Bethel, L. J. (1998). Conceptual models and cognitive learning styles in teaching recursion. Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE, 292–296.
+
+[9d] Forišek, M., & Steinová, M. (2012, February). Metaphors and analogies for teaching algorithms. In Proceedings of the 43rd ACM technical symposium on Computer Science Education (pp. 15-20).
 
 [10] Gilakjani, A. P., Lai-Mei, L., & Ismail, H. N. (2013). Teachers' use of technology and constructivism. International Journal of Modern Education and Computer Science, 5(4), 49
 
@@ -165,6 +190,10 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 [12] Zhang, D., Zhou, L., Briggs, R. O., & Nunamaker Jr, J. F. (2006). Instructional video in e-learning: Assessing the impact of interactive video on learning effectiveness. Information & management, 43(1), 15-27.
 
 [13] Brooks, J. G., & Brooks, M. G. (1999). In search of understanding: The case for constructivist classrooms. ASCD.
+
+[13a] Bruner, J. S. (1966). Toward a theory of instruction (Vol. 59). Harvard University Press.
+
+[13b] Chesnevar, C. I., Maguitman, A. G., González, M. P., & Cobo, M. L. (2004). Teaching fundamentals of computing theory: A constructivist approach. Journal of Computer Science and Technology, 4(2), 91–97.
 
 [14] Leidner, D. E., & Jarvenpaa, S. L. (1995). The use of information technology to enhance management school education: A theoretical view. MIS quarterly, 265-291.
 
