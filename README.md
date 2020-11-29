@@ -30,18 +30,25 @@ According to this paradigm, students, far from being passive recipients of infor
 
 Although the constructivist theory has profoundly influenced the teaching of science and mathematics, its applicability to bioinformatics has received much less attention, probably due to its cross-disciplinary nature. Bioinformatics education can be defined as the application of computational methods to collect, store, interpret, and integrate data in order to solve biological problems [8a] [8b].
 
-According Magana et al. (2014), bioinformatics education is divided in four dimensions: conceptual, methodological, tools management and information resources [8c]. The conceptual dimention refers to how to teach the abstract ideas or general notions that any student must know and understand in order to solve certain problems. The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. This category includes the knowledge of pre-existing instruments and applications, and the ability to use them to solve biological problems.
+According Magana et al. (2014), bioinformatics education is divided in four dimensions: conceptual, methodological, computational tools and information resources [8c]. Computational tools includes the knowledge of pre-existing instruments and applications, and the ability to use them to solve biological problems. Finally, the information resources category includes knowledge of available databases and information sources.
 
 In addition to these categories, in the context of distance education it is necessary to pay special attention to the social dimension, which in spite of not being proper of the education in bioinformatics, is essential to solve some of the problems linked to the distance education.
  
-#### Conceptual and metodological dimensions
+#### Conceptual dimension
 
-According the constructivist paradigm, the adquisiton of new knowledge is a recursive process in which new concepts are built on previos ones [13a] [13b]. It explains that one of the first challenges facing bioinformatics students is the lack of mental models of basic elementary computer science concepts, which usually leads to frustation. It is the responsability of the teacher to establish the conceptual foundation on which students can develop their learning process autonomously [8d].
+The conceptual dimention refers to how to teach the abstract ideas or general notions that any student must know and understand in order to solve certain problems. 
+
+According the constructivist paradigm, the adquisiton of new knowledge is a recursive process in which new concepts are built on previos ones the learning process of highly abstract concept is not possible if there is no previous conceptual foundation [13a] [13b]. It explains that one of the first challenges facing bioinformatics students is the lack of mental models of basic elementary computer science concepts, which usually leads to frustation. It is the responsability of the teacher to establish the conceptual foundation on which students can develop their learning process autonomously [8d].
 
 Diverse authors agree that, in order to implement adequate online teaching practices, it is necessary to take into account the characteristics of mental processes [30] [6]. Cognitive learning theory aims to describe the links between cognitive structures, defined as the mental representations of objects or ideas, and the learning process [31][32]. Experimental results have shown that cognitive learning styles affects the adquisition of mental models [9a] [9b]. Thus, students with an abstract learning mode tend to identify more easly the patterns inherent in an abstract model, whereas concrete learners prefers metaphors or analogies to facilitate learning new conceptual structures [9c] [9d].
 
+The distance education can make difficult the identification of the learning styles of the students. For that reason it is essential that the educational resources include diverse formats to address differences in learning styles and learning paces.
 
-### Tool management and information resources dimensions
+### Metodological dimension
+
+The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction, algorithmic thinking or reduction and decomposition in solving complex problems, requires that students with a biological background adopt a set of metacognitive habits known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them.
+
+### Computational tools and information resources dimensions
 
 
 ### Social dimension
@@ -180,6 +187,8 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 [9c] Wu, C. C., Dale, N. B., & Bethel, L. J. (1998). Conceptual models and cognitive learning styles in teaching recursion. Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE, 292–296.
 
 [9d] Forišek, M., & Steinová, M. (2012, February). Metaphors and analogies for teaching algorithms. In Proceedings of the 43rd ACM technical symposium on Computer Science Education (pp. 15-20).
+
+[9f] Qin, H. (2009, March). Teaching computational thinking through bioinformatics to biology students. In Proceedings of the 40th ACM technical symposium on Computer science education (pp. 188-191).
 
 [10] Gilakjani, A. P., Lai-Mei, L., & Ismail, H. N. (2013). Teachers' use of technology and constructivism. International Journal of Modern Education and Computer Science, 5(4), 49
 
