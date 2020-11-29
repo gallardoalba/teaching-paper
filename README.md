@@ -1,4 +1,4 @@
-## A Constructivist-based Proposal for Teaching Practices During Lock-down
+## A Constructivist-based Proposal for Bioinformatics Teaching Practices During Lock-down
 
 Cristóbal Gallardo-Alba1, Björn Grüning2* and Beatriz Serrano-Solano2* 
 1 unaffiliated
@@ -6,34 +6,28 @@ Cristóbal Gallardo-Alba1, Björn Grüning2* and Beatriz Serrano-Solano2*
 
 ### Abstract
 
-The COVID-19 outbreaks have caused universities all across the globe to close their campuses and forced them to initiate online teaching. This article reviews the pedagogical foundations for developing effective distance education practices, starting from the assumption that promoting autonomous thinking is an essential element to guarantee full citizenship in a democracy and for moral decision making in situations of rapid change, which has become a pressing need in the current context. In addition, the main obstacles related to this new context are identified, and solutions are proposed according to the existing bibliography in learning sciences. 
+The COVID-19 outbreaks have caused universities all across the globe to close their campuses and forced them to initiate online teaching. This article reviews the pedagogical foundations for developing effective distance bioinformatics education practices, starting from the assumption that promoting autonomous thinking is an essential element to guarantee full citizenship in a democracy and for moral decision making in situations of rapid change, which has become a pressing need in the current context. In addition, the main obstacles related to this new context are identified, and solutions are proposed according to the existing bibliography in learning sciences. 
 
 KEYWORDS: constructivism, e-learning, online teaching, social constructivism theory, cognitive learning theory, transformative learning theory
 Introduction
 
 ### Introduction
 
-The COVID-19 pandemic has caused serious alterations in the world’s education system, and due to the viral characteristics, it is very likely that this situation will repeat in the near future. This reality has forced a crash course for online learning plans and technology for students and faculty members.
-
-Universities across the globe are struggling to set up the technical systems needed to move courses, exams, research and other activities online. In the words of Carol McQuiggan, former Director of the Faculty Center for Teaching and Instructional Technology at Penn State Harrisburg, ‘what worked for them in the past in their traditional classroom may no longer be helpful or reliable in the distance education context’ [1].
+Universities across the globe are struggling to set up the technical systems needed to move courses, exams, research and other activities online due to the COVID-19 pandemic. In the words of Carol McQuiggan, former Director of the Faculty Center for Teaching and Instructional Technology at Penn State Harrisburg, ‘what worked for them in the past in their traditional classroom may no longer be helpful or reliable in the distance education context’ [1].
 
 Qualitative research into online learning suggests that students experience greater dissatisfaction, interpersonal isolation, feelings of unclear direction and uncertainty, and a lack of engagement in this environment [2] [3] [4] [5]. Despite not  being associated with a single cause, research indicates that a crucial mistake is to perceive technology only as a channel for transferring content, used as a substitute for other tools, ignoring the growing knowledge about pedagogical practices in online education [6] [7].
- 
-The vast empirical evidence highlights that to advance our understanding of online learning in higher education, a coherent theoretical framework must guide the research and practice of web-based online teaching and learning. This paper summarizes the pedagogical foundations necessary to develop quality distance education practices, according to the existing bibliography. In addition, it seeks to help trainers organize their computational biology lessons by establishing the theoretical basis for our recommendations on online teaching described in Serrano-Solano et al. [8].
+
+As Anderson, Rourke, Garrison, and Archer posited, online teaching is an extremely complex and challenging undertaking [9]. Due to its nature, it requires to move beyond traditional models into new practices more focused on the collective construction of knowledge rather than simply on the delivery of content [10]. The results of several studies indicate that the constructivist learning theory is the most appropriate to exploit the potential of technology-mediated educational practices [11a].
+
+This paper summarizes the pedagogical foundations necessary to develop quality distance bioinformatics education practices, according to the existing bibliography. In addition, it seeks to help trainers organize their computational biology lessons by establishing the theoretical basis for our recommendations on online teaching described in Serrano-Solano et al. [8].
 
  ### Theoretical Framework
 
-As Anderson, Rourke, Garrison, and Archer posited, online teaching is an extremely complex and challenging undertaking [9]. Due to its nature, it requires to move beyond traditional models into new practices more focused on the collective construction of knowledge rather than simply on the delivery of content [10].
-
-![__Figure 1.__ Bibliometric analysis results of publications on online learning in the Scopus database.](/images/publications.png)
-
-__Figure 1.__ Bibliometric analysis results of publications on online learning in the Scopus database.
-
-It can be inferred that, according to the growth rate of scientific publications based on Scopus database bibliometrics (Fig. 1), the constructivist approach is the most popular in online learning research. In order to optimize the learning process, we propose constructivism as a starting point and therefore, specific elements from its three auxiliary theories should be incorporated: social learning theory, cognitive learning theory and transformational learning theory (Fig. 2).
+In order to optimize the learning process, we propose constructivism as a starting point and therefore, specific elements from its three auxiliary theories should be incorporated: social learning theory, cognitive learning theory and transformational learning theory (Fig. 2).
 
 ![__Figure 2.__ Proposed theoretical framework.](/images/framework.png)
 
-__Figure 2.__ Proposed theoretical framework.
+__Figure 1.__ Proposed theoretical framework.
 
 ### Constructivism as Pedagogical Paradigm
 
@@ -163,6 +157,8 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 [9] Palloff, R. M., & Pratt, K. (2002). Lessons from the cyberspace classroom: The realities of online teaching. John Wiley & Sons.
 
 [10] Gilakjani, A. P., Lai-Mei, L., & Ismail, H. N. (2013). Teachers' use of technology and constructivism. International Journal of Modern Education and Computer Science, 5(4), 49
+
+[11a] Pourhosein Gilakjani, A., Mei Leong, L., & Nizam Ismail, H. (2013). Teachers’ Use of Technology and Constructivism. International Journal of Modern Education and Computer Science, 5(4), 49–63.
 
 [11] Honebein, P. C. (1996). Seven goals for the design of constructivist learning environments. Constructivist learning environments: Case studies in instructional design, 11-24.
 
