@@ -25,15 +25,15 @@ The vast empirical evidence highlights that to advance our understanding of onli
 
 As Anderson, Rourke, Garrison, and Archer posited, online teaching is an extremely complex and challenging undertaking [9]. Due to its nature, it requires to move beyond traditional models into new practices more focused on the collective construction of knowledge rather than simply on the delivery of content [10].
 
-
-
 ![__Figure 1.__ Bibliometric analysis results of publications on online learning in the Scopus database.](/images/publications.png)
 
+__Figure 1.__ Bibliometric analysis results of publications on online learning in the Scopus database.
 
 It can be inferred that, according to the growth rate of scientific publications based on Scopus database bibliometrics (Fig. 1), the constructivist approach is the most popular in online learning research. In order to optimize the learning process, we propose constructivism as a starting point and therefore, specific elements from its three auxiliary theories should be incorporated: social learning theory, cognitive learning theory and transformational learning theory (Fig. 2).
 
 ![__Figure 2.__ Proposed theoretical framework.](/images/framework.png)
 
+__Figure 2.__ Proposed theoretical framework.
 
 ### Constructivism as Pedagogical Paradigm
 
