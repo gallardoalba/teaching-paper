@@ -27,12 +27,12 @@ As Anderson, Rourke, Garrison, and Archer posited, online teaching is an extreme
 
 
 
-[Figure 1. Bibliometric analysis results of publications on online learning in the Scopus database.]
+[__Figure 1.__ Bibliometric analysis results of publications on online learning in the Scopus database.](publications.png)
 
 
 It can be inferred that, according to the growth rate of scientific publications based on Scopus database bibliometrics (Fig. 1), the constructivist approach is the most popular in online learning research. In order to optimize the learning process, we propose constructivism as a starting point and therefore, specific elements from its three auxiliary theories should be incorporated: social learning theory, cognitive learning theory and transformational learning theory (Fig. 2).
 
-Figure 2. Proposed theoretical framework.
+[__Figure 2.__ Proposed theoretical framework.](framework.png)
 
 
 ### Constructivism as Pedagogical Paradigm
@@ -125,15 +125,15 @@ Assuming this theoretical foundation, it is possible to overcome the main caveat
 
 ## TOP TIPS FOR INSTRUCTORS
 
-    • Make the learning process active and dynamic: let students experience rather than be passive learners by boosting discussion and reflection.
-    • Keep the motivation up: use real-life problems, understand each student’s short and long-term personal learning goals.
-    • Be clear: give direct instructions in a precise and transparent way. 
-    • Be flexible: let students control the pace of learning starting from certain guidelines, allow them to self-organize the learning process.
-    • Avoid hierarchical media: bidirectional communication promotes critical thinking.
-    • Use synchronous channels to foster social presence.
-    • Use asynchronous channels for higher levels of thinking.
-    • Build a community: be close, create a cooperative environment that encourages constructive discussion, share and challenge ideas to promote social interaction.
-    • Read the paper by Serrano-Solano et al. for technical advice on how to implement our recommendations easily.
+• Make the learning process active and dynamic: let students experience rather than be passive learners by boosting discussion and reflection.
+• Keep the motivation up: use real-life problems, understand each student’s short and long-term personal learning goals.
+• Be clear: give direct instructions in a precise and transparent way. 
+• Be flexible: let students control the pace of learning starting from certain guidelines, allow them to self-organize the learning process.
+• Avoid hierarchical media: bidirectional communication promotes critical thinking.
+• Use synchronous channels to foster social presence.
+• Use asynchronous channels for higher levels of thinking.
+• Build a community: be close, create a cooperative environment that encourages constructive discussion, share and challenge ideas to promote social interaction.
+• Read the paper by Serrano-Solano et al. for technical advice on how to implement our recommendations easily.
 
 #### Acknowledgement
 
