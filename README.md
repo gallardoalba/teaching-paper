@@ -46,7 +46,9 @@ The distance education can make difficult the identification of the learning sty
 
 ### Metodological dimension
 
-The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction, algorithmic thinking or reduction and decomposition in solving complex problems, requires that students with a biological background adopt a set of metacognitive habits known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them.
+The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction, algorithmic thinking or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them.
+
+
 
 ### Computational tools and information resources dimensions
 
@@ -122,7 +124,8 @@ Finally, a third motivational technique considered useful for improving teaching
 Establishing a functional learning community has been proved to be a key factor for overcoming some of the major drawbacks linked to distance education, such as the student’s feeling of isolation and their lack of motivation and interaction [72] [73] [74].
 
 It’s the instructor’s responsibility to stimulate the creation and maintenance of a structured network of reciprocal interactions between students that enables the collective construction of knowledge efficiently [75]. Research results indicate that students who are appropriately integrated into learning communities obtain higher grades [76]. In addition, quantitative results suggest a relationship between interaction levels and group size, and that group size is a critical factor to the effectiveness of learning [77] [78].
-Conclusion
+
+## Conclusion
 
 The COVID-19 pandemic is probably going to entail a turning point for the global educational system. The profound cultural changes imposed by the general situation of uncertainty are going to force the previous teaching practices to adapt to this new context.
 
@@ -135,15 +138,15 @@ Assuming this theoretical foundation, it is possible to overcome the main caveat
 
 ## TOP TIPS FOR INSTRUCTORS
 
-• Make the learning process active and dynamic: let students experience rather than be passive learners by boosting discussion and reflection.
-• Keep the motivation up: use real-life problems, understand each student’s short and long-term personal learning goals.
-• Be clear: give direct instructions in a precise and transparent way. 
-• Be flexible: let students control the pace of learning starting from certain guidelines, allow them to self-organize the learning process.
-• Avoid hierarchical media: bidirectional communication promotes critical thinking.
-• Use synchronous channels to foster social presence.
-• Use asynchronous channels for higher levels of thinking.
-• Build a community: be close, create a cooperative environment that encourages constructive discussion, share and challenge ideas to promote social interaction.
-• Read the paper by Serrano-Solano et al. for technical advice on how to implement our recommendations easily.
+- Make the learning process active and dynamic: let students experience rather than be passive learners by boosting discussion and reflection.
+- Keep the motivation up: use real-life problems, understand each student’s short and long-term personal learning goals.
+- Be clear: give direct instructions in a precise and transparent way. 
+- Be flexible: let students control the pace of learning starting from certain guidelines, allow them to self-organize the learning process.
+- Avoid hierarchical media: bidirectional communication promotes critical thinking.
+- Use synchronous channels to foster social presence.
+- Use asynchronous channels for higher levels of thinking.
+- Build a community: be close, create a cooperative environment that encourages constructive discussion, share and challenge ideas to promote social interaction.
+- Read the paper by Serrano-Solano et al. for technical advice on how to implement our recommendations easily.
 
 #### Acknowledgement
 
