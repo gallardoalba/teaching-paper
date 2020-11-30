@@ -42,7 +42,7 @@ Diverse authors agree that, in order to implement adequate online teaching pract
 
 The distance education can make difficult the identification of the learning styles of the students. For that reason it is essential that the educational resources include diverse formats to address differences in learning styles and learning paces.
 
-### Metodological dimension
+#### Metodological dimension
 
 The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. It is useless to base the bioinformatics education simply on memorization, since it has a strong logical and algorithmic structure [8i]. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them [9g].
 
@@ -52,11 +52,11 @@ From a constructivist point of view, collaborative problem-based learning is con
 
 Several studies have shown the usefulness of GitHub as a collaborative learning platform within computer science education [9v] [9q] [9u]. One of the most intesting features to facilitate user collaboration is the Pull Request mechanism, which allows to request, review and discuss changes to be made in a project content. GitHub can also be used as Learning management system (LMS), allowing students to contribute to the course content.  
 
-### Computational tools management and information resources
+#### Computational tools management and information resources
 
 This category includes the knowledge of pre-existing instruments and applications, the ability to use them to solve biological problems, and the knowledge of available databases and information sources.
 
-The information processing theory describes learning as the result of sequential processing of information, which involve three types of memory: immediate memory, working memory and long term memory [33]. To avoid overloading the working memory, and facilitate the learning process of those students who do not have IT background, it is necessary that the computational tools can be easily used, linked to each other and maintained [8m]. However, setting up a suitable platform for effective bioinformatics analysis can be challenging.
+To avoid overloading the working memory, and facilitate the learning process of those students who do not have IT background, it is necessary that the computational tools can be easily used, linked to each other and maintained [8m]. However, setting up a suitable platform for effective bioinformatics analysis can be challenging.
 
 Galaxy (https://galaxyproject.org), an open, web-based platform, allows students without programming and systems administration to perform computational analysis.
 
