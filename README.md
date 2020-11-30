@@ -44,41 +44,21 @@ The distance education can make difficult the identification of the learning sty
 
 ### Metodological dimension
 
-The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them [9g].
+The methodological dimensions refers to analysis, design, implementation and evaluation of computational processes, such as algorithm design. It is useless to base the bioinformatics education simply on memorization, since it has a strong logical and algorithmic structure [8i]. The set of skills needed in the field of bioinformatics, such as the capacity for multi-level abstraction or reduction and decomposition in solving complex problems, requires that students adopt metacognitive framework known as computational thinking [9f]. It can be defined as the hability of recognizing computational aspects in natural processs which configure our reality, and apply the tools and techniques of computing to understand and model them [9g].
 
 Teaching computer programming is considered the best approach to encourage computational thinking, allowing to develop algorithmic thinking, problem solving, logic and debugging skills [9h]. However, constructivist theory suggests that before proceeding to teach programming, it is necessary for students to possess adequate computer sciences conceptual models [9k].
 
-From a constructivist point of view, collaborative problem-based learning is considered the most adequate pedagogic strategy for teaching experimental, statistical, and computational processes, since it allows students to actively participate in the construction of their knowledge through social interaction  through the resolution of real problems [9m] [9n] [9s] [9r]. 
+From a constructivist point of view, collaborative problem-based learning is considered the most adequate pedagogic strategy for teaching experimental, statistical, and computational processes, since it allows students to actively participate in the construction of their knowledge through social interaction  through the resolution of real problems [9m] [9n] [9s] [9r]. In addition, collaborative learning methods have proven to be very useful in encouraging critical thinking, ensuring higher level of learning  [9o] [9p].
 
+Several studies have shown the usefulness of GitHub as a collaborative learning platform within computer science education [9v] [9q] [9u]. One of the most intesting features to facilitate user collaboration is the Pull Request mechanism, which allows to request, review and discuss changes to be made in a project content. GitHub can also be used as Learning management system (LMS), allowing students to contribute to the course content.  
 
-GitHub offers several unique features to facilitate user col- laboration. Its most important feature is the Pull Request (PR) mechanism which is a way to initiate discussion with other users and share or comment on the various artifacts in a project (typically changes to the project’s content). The discussion may include code that is visible to everyone and it shows the exact changes that would be merged if the PR were accepted. 
+### Computational tools management and information resources
 
-Several other educators have also introduced GitHub into their classrooms and shared their experiences. In 2010, Luis Felipe Borjas13 posted about the use of GitHub orga- nizations14—a way to simplify the management of group- owned repositories—to manage class projects. He also ap- plied GitHub to exams: instead of waiting until the exam deadline to upload the exams, students could just push15 as many times they wished and the last push they made before the deadline was going to be considered their final submission. 
+This category includes the knowledge of pre-existing instruments and applications, the ability to use them to solve biological problems, and the knowledge of available databases and information sources.
 
-while traditional LMSs support students reading and accessing course material, GitHub also allows them to easily contribute to the course material. The transparency features discussed above allowed intervie- wees to encourage student course participation and contribu- tion to the hosted course material. 
+The information processing theory describes learning as the result of sequential processing of information, which involve three types of memory: immediate memory, working memory and long term memory [33]. To avoid overloading the working memory, and facilitate the learning process of those students who do not have IT background, it is necessary that the computational tools can be easily used, linked to each other and maintained [8m]. However, setting up a suitable platform for effective bioinformatics analysis can be challenging.
 
-GitHub enables students to contribute to course material or work done by other students with the use of the Pull Request mechanism—a novel way to participate in courses. GitHub provides more in-depth ways to communicate and collaborate and provides teachers and students with a way to gain social group awareness and get information about what group mem- bers are doing, who they are communicating with, and how they are contributing [16]. Thus, GitHub enables a participa- tory culture [17] where students can create, edit, and share in such a way that they feel their contributions matter.
-
-
-### Management of computational tools and information resources
-
-Computational tools includes the knowledge of pre-existing instruments and applications, the ability to use them to solve biological problems, and the knowledge of available databases and information sources.
-
-The information processing theory describes learning as the result of sequential processing of information, which involve three types of memory: immediate memory, working memory and long term memory [33]. According to this theory, adequate learning resources require to assume two key elements: firstly, the fact that working memory is limited; and secondly, that the interaction between working and long term memory plays an important role in the construction and transferability of knowledge [6] [13] [34].
-
-
-Johnstone (7) has suggested that a common source of difficulty in science is the overload that occurs when the demand on working memory exceeds its capacity. One solu- tion to this overload is to help the student build strategies that decrease a task’s demand on working memory. 
-
-Resources that can be easily used, linked to each other and generally maintained could be the best to present in a bioinformatics course. Teaching bioinformatics methods to scientists having no IT background is a challenging task.
-
-Setting up a suitable platform for effective bioinformatics analysis can be challenging. ORCA, the Genomics Research Container Architecture, provides a comprehensive bioinformatics command line computing environment for education or research in a Docker image, which includes hundreds of popular bioinformatics tools and their dependencies.
-
-
-#### Transformative Learning Theory
-
-Transformative learning theory [42] aims to define the mechanisms involved in the development of critical thinking during the learning process. According to Richard Paul, ‘the traits of critical thinkers include independent thinking, intellectual empathy, intellectual humility, courage, integrity, perseverance, intellectual curiosity, faith in reason, intellectual civility, and intellectual responsibility’ [43].
-
-Transformative learning occurs when the learning process induces a shift in the student's frame of reference [42] [44], e.g. the role assigned to science by the students, their self-concept and role in society, etc. Although this goal can be achieved in multiple ways, a successful strategy is to stimulate reflection on uncritically accepted assumptions, such as those derived from cultural assimilation, through the exchange of points of view within a learning community [42] [45] [46]. It is the educator responsibility to cultivate students’ skills related to autonomous thinking by designing activities for that purpose [43].
+Galaxy (https://galaxyproject.org), an open, web-based platform, allows students without programming and systems administration to perform computational analysis.
 
 ### Major online-learning challenges
 
@@ -172,6 +152,12 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 
 [8d] Wu, C. C., Dale, N. B., & Bethel, L. J. (1998). Conceptual models and cognitive learning styles in teaching recursion. Poceedings of the Conference on Integrating Technology into Computer Science Education, ITiCSE, 292–296.
 
+[8i] Habiballa, H., & Kmeť, T. (2004). Theoretical branches in teaching computer science. International Journal of Mathematical Education in Science and Technology, 35(6), 829–841.
+
+[8m] Korcsmaros, Tamas, et al. "Teaching the bioinformatics of signaling networks: an integrated approach to facilitate multi-disciplinary learning." Briefings in bioinformatics 14.5 (2013): 618-632.
+
+
+
 [9] Palloff, R. M., & Pratt, K. (2002). Lessons from the cyberspace classroom: The realities of online teaching. John Wiley & Sons.
 
 [9a] Norman, D. A. Some observation of mental models. In D. Gentner and A.L. Stevens (Eds.), Mental Models (pp. 7-14). Erlbaum, Hillsdale, NJ, 1983.
@@ -197,6 +183,17 @@ We would like to thank the Galaxy community and Dr. Jean-Karim Hériché for his
 [9s] Huang, Hsiu‐Mei. "Toward constructivism for adult learners in online learning environments." British journal of educational technology 33.1 (2002): 27-37.
 
 [9r] Korucu, A. T., & Cakir, H. (2018). The effect of dynamic web technologies on student academic achievement in problem-based collaborative learning environment. Malaysian Online Journal of Educational Technology, 6(1), 92-108.
+
+[9p] A. A. Gokhale, “Collaborative learning enhances critical thinking,” Journal of Technology Education, vol. 7, no. 1, Fall 1995.
+
+[9o] Geertsen, H. Reed. "Rethinking thinking about higher-level thinking." Teaching Sociology (2003): 1-19.
+
+[9q] Kertész, Csaba-Zoltán. "Using GitHub in the classroom-a collaborative learning experience." 2015 IEEE 21st International Symposium for Design and Technology in Electronic Packaging (SIITME). IEEE, 2015.
+
+[9u] Angulo, Miguel A., and Ozgur Aktunc. "Using GitHub as a teaching tool for programming courses." ASEE Gulf-Southwest Section Annual Meeting 2018 Papers. American Society for Engineering Education, 2019.
+
+[9v] Glassey, Richard. "Adopting git/github within teaching: A survey of tool support." Proceedings of the ACM Conference on Global Computing Education. 2019.
+
 
 [10] Gilakjani, A. P., Lai-Mei, L., & Ismail, H. N. (2013). Teachers' use of technology and constructivism. International Journal of Modern Education and Computer Science, 5(4), 49
 
